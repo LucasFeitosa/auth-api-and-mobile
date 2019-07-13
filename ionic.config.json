@@ -1,5 +1,7 @@
 {
   "name": "authIonicApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
